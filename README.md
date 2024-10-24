@@ -16,8 +16,6 @@ Technologies Used
 - Database: MongoDB
 - Libraries: Bootstrap, jQuery, AngularJS
 
-License:
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
 -Node.js
